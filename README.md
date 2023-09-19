@@ -1,6 +1,6 @@
 ### 👋 Hello! I'm Giorgio
 
-I'm a passionate developer specialized in the next wave of digital evolution—Web3 and AI. I believe in harnessing the power of cutting-edge technology to build smarter, decentralized, and more efficient systems.
+I'm a passionate developer specialized in the next wave of digital evolution—Web3 and AI. I believe in harnessing the power of cutting-edge technology to build smarter, decentralized, and more efficient systems. My dedication extends beyond just code; I'm also deeply committed to utilizing technology to revolutionize the world of art. By integrating AI and blockchain into the creative process, I aim to push the boundaries of what's possible, enabling artists to display and generate art in entirely new and innovative ways. It's not just about coding for me; it's about fostering a new era of artistic expression and exploration through the fusion of technology and creativity.
 
 #### 🛠 Skills & Technologies
 - **Programming Languages**: TypeScript, Python, Solidity
