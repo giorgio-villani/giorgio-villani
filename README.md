@@ -4,8 +4,8 @@ I'm a passionate developer specialized in the next wave of digital evolution—W
 
 #### 🛠 Skills & Technologies
 - **Programming Languages**: TypeScript, Python, Solidity
-- **Frameworks/Libraries**: React, TensorFlow, Web3.js
-- **Blockchain**: Ethereum, Smart Contracts, Decentralized Applications (DApps)
+- **Frameworks/Libraries**: React, TensorFlow, Ethers, StableDiffusion
+- **Technologies**: Docker, Kubernetes, AWS, Terraform, PostgreSQL, GraphQL, SQL, WebSockets, RabbitMQ, HTML, CSS, Linux
 
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=giorgio-villani&layout=compact"/>
 
@@ -21,6 +21,10 @@ I'm a passionate developer specialized in the next wave of digital evolution—W
 - DAOs (Decentralized Autonomous Organizations)
 
 🌱 Currently learning more about Layer 2 solutions and advanced generative models in AI.
+
+#### 🔑 Key Projects and Achievements
+ETHDenver Hackathon 2023 Winner: Led the 'Krypto Kredit' project, integrating blockchain technology into financial applications.
+Infinite Hackathon 2021 Winner: Led the 'FairBid' project, integrating blockchain technology decentralized auction system and ticketing system.
 
 #### 🤝 Open for Collaborations
 I'm open for collaborations involving Web3, AI, or a blend of these exciting fields!
